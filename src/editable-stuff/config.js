@@ -41,7 +41,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "bournejj", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["Preffered-Dishes-Api", "Fluidity"],
+  specificRepos: ["preffered-dishes", "Fluidity"],
 };
 
 // SKILLS SECTION
