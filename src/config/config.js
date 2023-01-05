@@ -28,11 +28,11 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/Screenshot 2022-08-11 at 14.20.42.png"),
+  imageLink: require("../config/Screenshot 2022-08-11 at 14.20.42.png"),
   imageSize: 375,
   message:
-    "My name is Jack Bourne. I’m a graduate of 2022 from the Springboard Softwate Engineering program. In my free time I like working on my own personal projects, constantly honing my skills in javascript.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "My name is Jack Bourne. I’m a graduate of 2022 from the Springboard Software Engineering program. In my free time I like working on my own personal projects, constantly honing my skills as a Software Engineer. I also enjoy hiking and love getting into the great outdoors when I have the chance. I have travelled to many countries and have many more to tick off my bucket list! My telecaster is my one and only love..............................alongside my incredible partner of course!",
+  resume: "https://drive.google.com/file/d/1wy47XQXpJSeA_2NLQWnRStTzcOHUU0Vh/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -52,7 +52,6 @@ const skills = {
     { name: "Python", value: 70 },
     { name: "SQL", value: 75 },
     { name: "Data Structures", value: 70 },
-    
     { name: "JavaScript", value: 80 },
     { name: "React", value: 80 },
     { name: "HTML/CSS", value: 90 },

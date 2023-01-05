@@ -7,7 +7,7 @@ import {
   repos,
   skills,
   getInTouch,
-} from "./editable-stuff/config.js";
+} from "./config/config.js";
 import MainBody from "./components/home/MainBody";
 import AboutMe from "./components/home/AboutMe";
 import Project from "./components/home/Project";

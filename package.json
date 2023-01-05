@@ -31,7 +31,6 @@
     "eject": "react-scripts eject",
     "custom-deploy": "node pages.js"
   },
-
   "eslintConfig": {
     "extends": [
       "react-app",
